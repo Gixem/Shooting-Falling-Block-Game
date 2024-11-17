@@ -1,0 +1,6 @@
+﻿  Main.cpp
+ICBYTESx64Debug.lib(icbytes.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(icbytes.obj)' or at ''; linking object as if no debug info
+ICBYTESx64Debug.lib(ic_media.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(ic_media.obj)' or at ''; linking object as if no debug info
+ICBYTESx64Debug.lib(icb_gui.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(icb_gui.obj)' or at ''; linking object as if no debug info
+ICBYTESx64Debug.lib(jpgd.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(jpgd.obj)' or at ''; linking object as if no debug info
+  FallingBlockAnimation.vcxproj -> C:\ICBYTES_S_TR\mutex_FallingBlockGame\x64\Debug\FallingBlockAnimation.exe
